@@ -1,6 +1,4 @@
-package hello;
-
-import java.awt.*;
+package com.example.hello;
 
 class Person {
      // write the code of Person class here

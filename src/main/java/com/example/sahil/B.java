@@ -7,6 +7,6 @@ public class B extends A{
         return 0;
     }
     static void pal(){
-        System.out.println("hello");
+        System.out.println("com/example/hello");
     }
 }
